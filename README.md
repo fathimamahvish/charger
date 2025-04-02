@@ -4,3 +4,4 @@ laptop
 
 phone
 
+ipad
